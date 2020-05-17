@@ -19,6 +19,9 @@ gem 'bcrypt', '~> 3.1.7'
 # generate jwt tokens
 gem 'jwt'
 
+# alternative to using private controller methods
+gem 'simple_command'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
